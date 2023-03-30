@@ -12,3 +12,4 @@
 ## 보존된 푸치 프로필 목록
 * [Karin/Ibuki/Misaki](etc/puchi/Karin/Ibuki/Misaki)
 * [Hinako_Kana_Kiyomi](etc/puchi/Hinako_Kana_Kiyomi)
+* [Yumi_Yukino_Hayate](etc/puchi/Yumi_Yukino_Hayate)
